@@ -23,9 +23,9 @@
 #include <std_msgs/msg/int8.hpp>
 #include <geometry_msgs/msg/transform_stamped.hpp>
 
-#include <moveit_servo/servo.h>
+#include <moveit_servo/moveit_servo/servo.hpp>
 #include "moveit2_pose_tracking.hpp"
-#include <moveit_servo/servo_parameters.h>
+#include <moveit_servo/moveit_servo_lib_parameters.hpp>
 
 #include <moveit/planning_scene_interface/planning_scene_interface.h>
 #include <std_msgs/msg/float64_multi_array.hpp>
