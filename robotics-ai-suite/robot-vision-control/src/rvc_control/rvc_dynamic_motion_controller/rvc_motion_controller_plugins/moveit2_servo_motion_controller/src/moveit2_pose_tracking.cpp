@@ -35,7 +35,7 @@
  *********************************************************************/
 
 #include "moveit2_servo_motion_controller/moveit2_pose_tracking.hpp"
-#include <moveit_servo/servo_parameters.h>
+// #include <moveit_servo/servo_parameters.h>
 
 #include <chrono>
 //#include <queue>

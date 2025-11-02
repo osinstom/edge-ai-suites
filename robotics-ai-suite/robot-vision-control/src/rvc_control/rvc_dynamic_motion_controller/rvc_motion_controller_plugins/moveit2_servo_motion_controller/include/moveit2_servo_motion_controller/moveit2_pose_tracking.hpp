@@ -41,9 +41,8 @@
 #pragma once
 
 //#include <atomic>
-#include <moveit_servo/make_shared_from_pool.h>
-#include <moveit_servo/servo_parameters.h>
-#include <moveit_servo/servo.h>
+#include <moveit_servo/moveit_servo_lib_parameters.hpp>
+#include <moveit_servo/moveit_servo/servo.hpp>
 //#include <optional>
 #include <tf2_geometry_msgs/tf2_geometry_msgs.hpp>
 #include <tf2_ros/transform_listener.h>
